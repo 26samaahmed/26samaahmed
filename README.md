@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to my Github! </h1>
-<h3 align="center">I'm Sama and I'm a Computer Science Major at CSUF!</h3>
+<h1 align="center">Hello! I'm Sama! </h1>
+<h3 align="center">I'm a Computer Science Major at CSUF!</h3>
 <img align="right" width="300" src="https://images.wsj.net/im-568211">
 
 <h3 align="left">Languages and Tools:</h3>
