@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Sama Ahmed </h1>
+<h1 align="center">Welcome, I'm Sama Ahmed 👩🏻‍💻 </h1>
 <h3 align="center">Computer Science Major at CSUF!</h3>
 <img align="right" width="350" src="https://images.wsj.net/im-568211">
 
