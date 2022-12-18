@@ -21,7 +21,5 @@
 ![Sama's GitHub stats](https://github-readme-stats.vercel.app/api?username=26samaahmed&theme=tokyonight&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=26samaahmed&layout=compact)](https://github.com/26samaahmed/github-readme-stats)
-![Snake animation](https://github.com/26samaahmed/26samaahmed/blob/output/github-contribution-grid-snake.svg)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26samaahmed&" alt="26samaahmed" /></p>
