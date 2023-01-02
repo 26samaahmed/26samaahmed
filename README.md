@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Sama Ahmed! </h1>
+<h1 align="center">Hello, I'm Sama Ahmed! </h1>
 <img align="right" width="350" src=https://images.squarespace-cdn.com/content/v1/5e9e61184a2e5f4b613d5853/1590108422294-AVIEWRKP9MKDJLYQQGXO/AI.gif?format=2500w>
 
 <h3 align="left">Languages and Tools:</h3>
