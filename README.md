@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sama Ahmed! </h1>
 
-<img src="https://user-images.githubusercontent.com/111910374/212576437-f7c29759-9f0a-4918-b218-656080b790b0.png" width="400px" align="right">
+<img src="https://user-images.githubusercontent.com/111910374/212576437-f7c29759-9f0a-4918-b218-656080b790b0.png" width="300px" align="right">
 
 
 <h3 align="left">Languages and Tools:</h3>
