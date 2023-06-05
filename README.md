@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Sama! </h1>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img 
