@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=1572B6" alt="C++ logo" title="C++" height="25" />
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=1572B6" alt="Python logo" title="C++" height="25" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm&logoColor=1572B6" alt="PyCharm logo" title="PyCharm" height="25" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=26samaahmed&layout=compact&theme=midnight-purple)](https://github.com/26samaahmed/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26samaahmed&theme=midnight-purple" alt="26samaahmed" /></p>
