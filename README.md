@@ -1,3 +1,6 @@
+Hii, I'm sama and I'm an aspiring software engineer. I currently attend CSUF and my major is computer science. Some fun facts about me are that I'm egyptian, i love reading, and I listen to music 24/7. My favorite languages to code in are python and c++.
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img 
