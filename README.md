@@ -1,4 +1,11 @@
-Hii, I'm sama and I'm an aspiring software engineer. I currently attend CSUF and my major is computer science. Some fun facts about me are that I'm egyptian, i love reading, and I listen to music 24/7. My favorite languages to code in are python and c++.
+```c++
+if (intro)
+  std::cout << "Hii, I'm sama and I'm an aspiring software engineer. I currently attend CSUF and my major is computer science.\n";
+if (fun_facts)
+  std::cout << "Some fun facts about me are that I'm egyptian, i love reading, and I listen to music 24/7. My favorite languages to code in are python and c++.\n";
+if (favorite_langs)
+  std::cout << "c++/python" << std::endl;
+```
 
 
 
