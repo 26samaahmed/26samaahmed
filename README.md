@@ -1,14 +1,3 @@
-```c++
-if (intro)
-  std::cout << "Hii, I'm sama and I'm an aspiring software engineer. I currently attend CSUF and my major is
-               computer science.\n";
-if (fun_facts)
-  std::cout << "Some fun facts about me are that I'm egyptian, i love reading, and I listen to music 24/7.\n"
-if (favorite_langs)
-  std::cout << "c++/python" << std::endl;
-```
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img 
