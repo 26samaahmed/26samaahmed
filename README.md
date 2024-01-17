@@ -1,6 +1,7 @@
-<img src="https://gifdb.com/images/high/happy-cat-peach-cute-head-bobbing-ez8elbaenirl2hqc.gif" width="150" height="150">
+<h2 align=center>hii, I'm sama and welcome to my github ;)</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ctofzgoost2ub5nsufbyuprlwu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://gifdb.com/images/high/happy-cat-peach-cute-head-bobbing-ez8elbaenirl2hqc.gif" width="90" height="90">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img 
