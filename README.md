@@ -16,11 +16,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio logo" title="Visual Studio" height="25" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26samaahmed&theme=midnight-purple" alt="26samaahmed" /></p>
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=26samaahmed&hide_progress=true&theme=midnight-purple" alt="26samaahmed" /></p>
 Find me here: 
   
 <a target="_blank" href="https://www.linkedin.com/in/sama-ahmedd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
