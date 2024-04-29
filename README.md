@@ -2,6 +2,15 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ctofzgoost2ub5nsufbyuprlwu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img src="https://gifdb.com/images/high/happy-cat-peach-cute-head-bobbing-ez8elbaenirl2hqc.gif" width="90" height="90">
+> <h3>About me: </h3>
+
+```
+pronouns: she/her
+university: california state university, fullerton
+fun_facts:
+- i'm a design officer @acmCSUF and i love going to designathons
+- i love listening to music
+```
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img 
