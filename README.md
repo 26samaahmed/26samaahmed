@@ -2,17 +2,17 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ctofzgoost2ub5nsufbyuprlwu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img src="https://gifdb.com/images/high/happy-cat-peach-cute-head-bobbing-ez8elbaenirl2hqc.gif" width="90" height="90">
-> <h3>About me: </h3>
+<h3>about me: </h3>
 
 ```
 pronouns: she/her
 university: california state university, fullerton
-fun_facts:
+fun facts:
 - i'm a design officer @acmCSUF and i love going to designathons
 - i love listening to music
 ```
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">languages and tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img 
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" />
@@ -26,7 +26,7 @@ fun_facts:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26samaahmed&theme=midnight-purple" alt="26samaahmed" /></p>
-Find me here: 
+you can connect with me here:
   
 <a target="_blank" href="https://www.linkedin.com/in/sama-ahmedd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto: 26samahmed@csu.fullerton.edu"><img src="https://img.shields.io/badge/-Outlook-0077B5?style=for-the-badge&logo=Email&logoColor=white"></img></a>
+<a target="_blank" href="mailto: 26samahmed@csu.fullerton.edu"><img src="https://img.shields.io/badge/-Outlook-0077B5?style=for-the-badge&logo=Outlook&logoColor=white"></img></a>
