@@ -29,7 +29,7 @@ class AboutMe:
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio logo" title="Visual Studio" height="25" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26samaahmed&theme=midnight-purple" alt="26samaahmed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26samaahmed&theme=vue-dark" alt="26samaahmed" /></p>
 you can connect with me here 💚: <br><br>
 <a target="_blank" href="https://www.linkedin.com/in/sama-ahmedd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto: 26samahmed@csu.fullerton.edu"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
