@@ -30,7 +30,15 @@ class AboutMe:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26samaahmed&theme=vue-dark" alt="26samaahmed" /></p>
-you can connect with me here 💚: <br><br>
+
+<h2>projects: </h2>
+- skysong: recommend songs based on the current temperature of your city using the spotify api and open weather map's api <br>
+- yourSpotStats: show the user's top 10 artists and top 10 songs of the month using spotify' api <br>
+- concert tracker (wip): show the concerts depending on the city and the month using ticket master's api + record list of concerts attended on a dashboard <br>
+- personal portfolio (wip): display my projects and experiences <br>
+- fullybeyond (wip): collaborate with 4 people to create the website for our student-led designathon <br>
+
+<br>you can connect with me here 💚: <br><br>
 <a target="_blank" href="https://www.linkedin.com/in/sama-ahmedd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto: 26samahmed@csu.fullerton.edu"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
 <a target="_blank" href="https://leetcode.com/u/26samaahmed/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
