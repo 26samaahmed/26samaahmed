@@ -5,11 +5,13 @@
 
 ```py
 class AboutMe:
+    name = "Sama Ahmed"
     pronouns = "she/her"
     university = "California State University, Fullerton"
-    languages = ["Python", "JavaScript", "C/C++", ...]
+    graduation = "2026"
+    languages = ["Python", "JavaScript", "C/C++", "HTML/CSS", ...]
     fun_facts = [
-        "I'm a design officer @acmCSUF",
+        "I'm a design officer and websmater @acmCSUF",
         "I love going to designathons in my free time"
     ]
 
