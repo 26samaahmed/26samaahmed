@@ -34,11 +34,12 @@ class AboutMe:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26samaahmed&theme=vue-dark" alt="26samaahmed" /></p>
 
 <h2>projects: </h2>
-- skysong: recommend songs based on the current temperature of your city using the spotify api and open weather map's api <br>
-- yourSpotStats: show the user's top 10 artists and top 10 songs of the month using spotify' api <br>
-- concert tracker (wip): show the concerts depending on the city and the month using ticket master's api + record list of concerts attended on a dashboard <br>
-- personal portfolio (wip): display my projects and experiences <br>
-- fullybeyond (wip): collaborate with 4 people to create the website for our student-led designathon <br>
+
+- [skysong](https://github.com/26samaahmed/skysong): recommend songs based on the current temperature of your city using the spotify api and open weather map's api <br>
+- [yourSpotStats](https://github.com/26samaahmed/YourSpotStats): show the user's top 10 artists and top 10 songs of the month using spotify' api while visualizing song features like tempo and valence on the command line <br>
+- [concert tracker](https://github.com/26samaahmed/concert-tracker) (wip): show the concerts depending on the city and the month using ticket master's api + record list of concerts attended on a dashboard <br>
+- [personal portfolio](https://github.com/26samaahmed/sama-portfolio) (wip): display my projects and experiences <br>
+- [fullybeyond](https://github.com/26samaahmed/fullybeyond) (wip): collaborate with 4 people to create the website for our student-led designathon <br>
 
 <br>you can connect with me here 💚: <br><br>
 <a target="_blank" href="https://www.linkedin.com/in/sama-ahmedd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
