@@ -1,4 +1,6 @@
-<h2 align=center>hii, I'm sama and welcome to my github ;)</h2>
+<h2 align=center>hii, i'm sama and welcome to my github ;)</h2>
+
+<h3 align=center>check out my portfolio <a href="https://github.com/26samaahmed/sama-portfolio" target="_blank">here</a></h3> <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ctofzgoost2ub5nsufbyuprlwu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img src="https://gifdb.com/images/high/happy-cat-peach-cute-head-bobbing-ez8elbaenirl2hqc.gif" width="90" height="90">
@@ -17,6 +19,7 @@ class AboutMe:
 
 ```
 
+
 <h3 align="left">languages and tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img>
 
@@ -32,14 +35,6 @@ class AboutMe:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26samaahmed&theme=vue-dark" alt="26samaahmed" /></p>
-
-<h2>projects: </h2>
-
-- [skysong](https://github.com/26samaahmed/skysong): recommend songs based on the current temperature of your city using the spotify api and open weather map's api <br>
-- [yourSpotStats](https://github.com/26samaahmed/YourSpotStats): show the user's top 10 artists and top 10 songs of the month using spotify' api while visualizing song features like tempo and valence on the command line <br>
-- [concert tracker](https://github.com/26samaahmed/concert-tracker) (wip): show the concerts depending on the city and the month using ticket master's api + record list of concerts attended on a dashboard <br>
-- [personal portfolio](https://github.com/26samaahmed/sama-portfolio) (wip): display my projects and experiences <br>
-- [fullybeyond](https://github.com/26samaahmed/fullybeyond) (wip): collaborate with 4 people to create the website for our student-led designathon <br>
 
 <br>you can connect with me here 💚: <br><br>
 <a target="_blank" href="https://www.linkedin.com/in/sama-ahmedd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
