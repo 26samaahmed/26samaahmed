@@ -19,21 +19,6 @@ class AboutMe:
 
 ```
 
-
-<h3 align="left">languages and tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img>
-
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo" title="Python" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS logo" title="Javascript" height="25" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C logo" title="C" height="25" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm logo" title="PyCharm" height="25" />
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio logo" title="Visual Studio" height="25" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26samaahmed&theme=vue-dark" alt="26samaahmed" /></p>
 
 <br>you can connect with me here 💚: <br><br>
