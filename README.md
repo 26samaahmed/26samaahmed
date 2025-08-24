@@ -11,5 +11,5 @@ class AboutMe:
     university = "California State University, Fullerton"
     major = "Computer Science"
     graduation = "2026"
-    interests = ["Web Design", "Web Dev", "UI/UX Design"]
+    interests = ["Product Management", "Product Design"]
 ```
