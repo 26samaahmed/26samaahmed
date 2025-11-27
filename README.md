@@ -1,4 +1,4 @@
-<h2 align="center">⊹₊⟡⋆ hii, i'm sama — welcome to my github ⊹₊⟡⋆</h2>
+<h2 align="center">⊹₊⟡⋆ hii, i'm sama — welcome to my github ⋆⟡₊⊹</h2>
 
 <h3 align="center">
 I love turning ideas into products that matter.  
@@ -28,8 +28,6 @@ class AboutMe:
         "Open-Source"
     ]
 ```
-
-🌐 connect with me
 
 ⟢ website: https://www.samahmed.info
 <br>
