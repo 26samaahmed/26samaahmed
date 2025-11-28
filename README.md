@@ -16,8 +16,6 @@ With experience in UX research, open-source development, and design, I focus on 
 
 ```py
 class AboutMe:
-    name = "Sama Ahmed"
-    pronouns = "she/her"
     university = "California State University, Fullerton"
     major = "Computer Science"
     graduation = "2026"
