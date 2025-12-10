@@ -5,6 +5,8 @@ I love turning ideas into products that matter.
 With experience in UX research, open-source development, and design, I focus on translating real user needs into actionable solutions — and building things that make people’s lives a little easier.
 </h3>
 
+<p align="center">Currently designing and building a product management–focused portfolio ♡ </p>
+
 <br>
 
 <div align="center">
