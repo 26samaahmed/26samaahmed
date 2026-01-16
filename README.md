@@ -29,7 +29,8 @@ class AboutMe:
     ]
     extracurriculars = [
         "Campus Leader at Figma",
-        "UI/UX Designer at FullyHacks"
+        "UI/UX Designer at FullyHacks",
+        "Web Design Intern at Titan Radio"
     ]
 ```
 
