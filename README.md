@@ -1,8 +1,8 @@
-<h2 align="center">⊹₊⟡⋆ hii, i'm sama — welcome to my github ⋆⟡₊⊹</h2>
+<h2 align="center">⊹₊⟡⋆ hii, i'm sama! welcome to my github ⋆⟡₊⊹</h2>
 
 <p align="center">
 I love turning ideas into products that matter.  
-With experience in UX research, open-source development, and design, I focus on translating real user needs into actionable solutions — and building things that make people’s lives a little easier.
+With experience in UX research, open-source development, and design, I focus on translating real user needs into actionable solutions and building things that make people’s lives a little easier.
 </p>
 
 <p align="center">Currently designing and building a product management–focused portfolio ♡ </p>
@@ -29,7 +29,6 @@ class AboutMe:
     ]
     extracurriculars = [
         "Campus Leader at Figma",
-        "UI/UX Designer at FullyHacks",
         "Web Design Intern at Titan Radio"
     ]
 ```
